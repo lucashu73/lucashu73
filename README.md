@@ -10,7 +10,7 @@
 
 > *That's me, Lucas Hu!*
 
-**Welcome to my Github profile!**
+**Welcome to my GitHub profile!**
 
 <!--
 **lucashu73/lucashu73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
