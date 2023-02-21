@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+- *Knock, knock*
+- Who's there?
+- *Lucas*
+- Lucas who?
+- *That's me, Lucas Hu!*
 
+**Welcome to my Github profile!**
+
+<!--
 **lucashu73/lucashu73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
