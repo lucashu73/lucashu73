@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 > *Knock, knock*
+
 > Who's there?
+
 > *Lucas*
+
 > Lucas who?
+
 > *That's me, Lucas Hu!*
 
 **Welcome to my Github profile!**
